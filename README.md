@@ -1,5 +1,5 @@
 # C-Shell
-A simple Linux shell written in C for OS course.
+A very basic and limited shell written in C for OS course.
 
 ## Installation
 Clone this repository
@@ -18,3 +18,7 @@ Run the executable `csh` created in `bin/`
 cd bin/
 ./csh
 ```
+
+## Features
+- Support piping and background process
+- Built-in commands
